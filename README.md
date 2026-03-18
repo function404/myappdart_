@@ -16,7 +16,7 @@ A interface foi construída seguindo o conceito de árvore de widgets, utilizand
 * **Bônus Implementados:** `CircleAvatar` para foto de perfil, ícones do Material Design (`Icon`), bordas arredondadas (`borderRadius`) e sombras (`boxShadow`).
 
 ## 🖼️ Screenshots
-![Screenshot]()
+![Screenshot](assets/image.png)
 
 ## 🚀 Como Executar o Projeto
 1. Certifique-se de ter o [Flutter SDK](https://flutter.dev/docs/get-started/install) instalado.
