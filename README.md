@@ -22,7 +22,7 @@ A interface foi construída seguindo o conceito de árvore de widgets, utilizand
 1. Certifique-se de ter o [Flutter SDK](https://flutter.dev/docs/get-started/install) instalado.
 2. Clone este repositório:
 ```bash
-git clone [https://github.com/function404/myappdart_.git](https://github.com/function404/myappdart_.git)
+git clone git@github.com:function404/myappdart_.git
 ```
 3. Abra a pasta do projeto no seu editor de código preferido (VS Code ou Android Studio).
 4. Restaure as dependências do Flutter:
